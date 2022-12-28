@@ -28,7 +28,7 @@ Repository - handles requests to retrieve data from a remote or local database
 
 ## Screenshots
 
-![](C:/Users/Vladimir/Desktop/jobs_list_screen.png)
-![](C:/Users/Vladimir/Desktop/job_details_screen.png)
-![](C:/Users/Vladimir/Desktop/companies_list_screen.png)
-![](C:/Users/Vladimir/Desktop/company_details_screen.png)
+![jobs_list_screen](https://user-images.githubusercontent.com/93329500/209801913-e25339d4-92f3-4491-a0cf-35bc16044e62.png)
+![job_details_screen](https://user-images.githubusercontent.com/93329500/209801932-fa0e0ea9-339e-4627-82b3-f85279f6f150.png)
+![companies_list_screen](https://user-images.githubusercontent.com/93329500/209801944-cef18b9d-e523-4cb5-8326-fe3569a9fc55.png)
+![company_details_screen](https://user-images.githubusercontent.com/93329500/209801950-0cefcd2c-29b1-4167-b1ef-aeeeb07ba26e.png)
